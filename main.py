@@ -1,7 +1,7 @@
 # main.py
 
 from src.data_loader import load_train_data, load_test_data
-from src.baseline_model import train_model
+from src.model import train_model
 from src.predict import predict_and_save
 
 
